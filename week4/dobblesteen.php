@@ -22,7 +22,7 @@
 $randomGetal = rand(1,6);
 echo "<br>Je hebt gegooid: $randomGetal;";
 
-if ($randomGetal == 6) {
+if ($randomGetal == 3) {
     echo " Congrats, You Won ";
 } else {
     echo " Awh, You Lost Noobie ";
