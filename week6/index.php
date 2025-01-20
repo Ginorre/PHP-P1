@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<form action="process_form.php" method="POST">
+<form action="process-form.php" method="POST">
         <label for="name">Voor en achternaam</label>
         <input type="text" id="name" name="name">
 
